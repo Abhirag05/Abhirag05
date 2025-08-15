@@ -1,5 +1,5 @@
 # Hey, I'm Abhirag 👋
-I am a detail-oriented and self-motivated **BCA student** with hands-on experience in **MERN stack** and **PHP/MySQL** development.  
+I am a detail-oriented and self-motivated **BCA student** with hands-on experience in **MERN stack** , **Next.js** and **PHP/MySQL** development.  
 I enjoy building responsive, user-focused web applications, managing projects end-to-end, and constantly learning emerging technologies.
 
 ---
