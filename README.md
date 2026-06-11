@@ -1,75 +1,149 @@
-# Hey, I'm Abhirag 👋
-I am a detail-oriented and self-motivated **BCA student** with hands-on experience in **MERN stack** , **Next.js** and **PHP/MySQL** development.  
-I enjoy building responsive, user-focused web applications, managing projects end-to-end, and constantly learning emerging technologies.
+<div align="center">
+
+```
+ █████╗ ██████╗ ██╗  ██╗██╗██████╗  █████╗  ██████╗
+██╔══██╗██╔══██╗██║  ██║██║██╔══██╗██╔══██╗██╔════╝
+███████║██████╔╝███████║██║██████╔╝███████║██║  ███╗
+██╔══██║██╔══██╗██╔══██║██║██╔══██╗██╔══██║██║   ██║
+██║  ██║██████╔╝██║  ██║██║██║  ██║██║  ██║╚██████╔╝
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
+```
+
+### `BCA Student` · `Full-Stack Developer` · `Builder`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MERN+Stack+%7C+Next.js+%7C+PHP%2FMySQL;Turning+ideas+into+working+products;Always+learning%2C+always+shipping" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhirag-s-v)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-%23F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22333333)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhiragsv2005@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Abhirag05&style=flat-square&color=00D9FF&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirag-s-v)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22333333)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhiragsv2005@gmail.com)
+## `$ whoami`
+
+```yaml
+name:       Abhirag S V
+role:       Full-Stack Web Developer
+degree:     BCA (Bachelor of Computer Applications)
+focus:      MERN Stack · Next.js · PHP/MySQL
+interests:  [Building products, Clean code, UI/UX, Automation]
+currently:  Learning & building — one project at a time
+```
 
 ---
 
-# 💻 Tech Stack
+## `$ ls ./skills`
 
-### **Programming Languages**
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="33%">
 
----
+**Languages**
+```
+JavaScript   ████████████  ★★★★★
+TypeScript   █████████░░░  ★★★★☆
+PHP          ████████░░░░  ★★★★☆
+Python       ███████░░░░░  ★★★☆☆
+Java         ██████░░░░░░  ★★★☆☆
+C / C++      ██████░░░░░░  ★★★☆☆
+```
 
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
----
+**Frontend**
+```
+React        ████████████  ★★★★★
+Next.js      ████████████  ★★★★★
+TailwindCSS  ████████████  ★★★★★
+HTML/CSS     ████████████  ★★★★★
+Bootstrap    ████████░░░░  ★★★★☆
+Flutter      ██████░░░░░░  ★★★☆☆
+```
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
----
+**Backend & DB**
+```
+Node.js      ████████████  ★★★★★
+Express.js   ████████████  ★★★★★
+MongoDB      ██████████░░  ★★★★☆
+MySQL        ██████████░░  ★★★★☆
+Apache       ███████░░░░░  ★★★☆☆
+```
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhirag05&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirag05&layout=compact&theme=radical)
+## `$ cat ./toolbelt.txt`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhirag05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000?style=flat-square&logo=vercel)
+![Render](https://img.shields.io/badge/Render-%2346E3B7?style=flat-square&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=flat-square&logo=wordpress)
+![UiPath](https://img.shields.io/badge/UiPath-Automation-%23FF6C37?style=flat-square&logo=uipath&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+## `$ gh stats --user Abhirag05`
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abhirag05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirag05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abhirag05&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+</div>
+
+---
+
+## `$ cat ./contributions.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhirag05&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+
+</div>
+
+---
+
+## `$ trophy --display`
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Abhirag05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best error message is the one that never shows up."* — Thomas Fuchs
+
+<br/>
+
+**Open to collaborations, freelance projects & interesting ideas.**
+**Drop a mail or connect on LinkedIn — I reply fast.**
+
+</div>
