@@ -171,7 +171,7 @@
 <!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
 
 <h2 align="center">
-  <samp>⟨ 🐍 CONTRIBUTION SNAKE ⟩</samp>
+  <samp>⟨ CONTRIBUTIONS⟩</samp>
 </h2>
 
 <div align="center">
@@ -183,7 +183,7 @@
   </picture>
 
   <br/>
-  <sub><samp>⚠️ Set up the GitHub Action in <code>.github/workflows/snake.yml</code> and trigger it from the Actions tab to generate this animation.</samp></sub>
+ 
 
 </div>
 
@@ -204,7 +204,7 @@
 
 <div align="center">
   <samp>
-    <b>Drop a mail or connect on LinkedIn — I reply fast.</b>
+    <b>Wanna talk? Drop a mail or connect on LinkedIn.</b>
     <br/><br/>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=60&section=footer" width="100%"/>
   </samp>
