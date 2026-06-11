@@ -14,28 +14,31 @@
       <animate attributeName="width" from="0" to="850" begin="0.5s" dur="0.6s" fill="freeze"/>
     </rect></clipPath>
     <clipPath id="r1"><rect x="0" y="0" width="0" height="500">
-      <animate attributeName="width" from="0" to="850" begin="1.4s" dur="0.3s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="850" begin="1.3s" dur="0.3s" fill="freeze"/>
     </rect></clipPath>
     <clipPath id="r2"><rect x="0" y="0" width="0" height="500">
-      <animate attributeName="width" from="0" to="850" begin="1.9s" dur="0.5s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="850" begin="1.8s" dur="0.4s" fill="freeze"/>
     </rect></clipPath>
     <clipPath id="r3"><rect x="0" y="0" width="0" height="500">
-      <animate attributeName="width" from="0" to="850" begin="2.6s" dur="0.5s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="850" begin="2.4s" dur="0.4s" fill="freeze"/>
     </rect></clipPath>
     <clipPath id="r4"><rect x="0" y="0" width="0" height="500">
-      <animate attributeName="width" from="0" to="850" begin="3.3s" dur="0.7s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="850" begin="3.0s" dur="0.5s" fill="freeze"/>
     </rect></clipPath>
     <clipPath id="r5"><rect x="0" y="0" width="0" height="500">
-      <animate attributeName="width" from="0" to="850" begin="4.2s" dur="0.6s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="850" begin="3.7s" dur="0.7s" fill="freeze"/>
     </rect></clipPath>
     <clipPath id="r6"><rect x="0" y="0" width="0" height="500">
-      <animate attributeName="width" from="0" to="850" begin="5.0s" dur="0.6s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="850" begin="4.6s" dur="0.8s" fill="freeze"/>
     </rect></clipPath>
     <clipPath id="r7"><rect x="0" y="0" width="0" height="500">
-      <animate attributeName="width" from="0" to="850" begin="5.8s" dur="0.7s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="850" begin="5.6s" dur="1.0s" fill="freeze"/>
     </rect></clipPath>
     <clipPath id="r8"><rect x="0" y="0" width="0" height="500">
-      <animate attributeName="width" from="0" to="850" begin="6.7s" dur="0.3s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="850" begin="6.8s" dur="0.6s" fill="freeze"/>
+    </rect></clipPath>
+    <clipPath id="r9"><rect x="0" y="0" width="0" height="500">
+      <animate attributeName="width" from="0" to="850" begin="7.6s" dur="0.3s" fill="freeze"/>
     </rect></clipPath>
   </defs>
 
@@ -83,7 +86,7 @@
 
   <!-- CRT scanline overlay (very subtle) -->
   <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
-    <line x1="0" y1="0" x2="4" y2="0" stroke="#000" stroke-width="1" opacity="0.03"/>
+    <line x1="0" y1="0" stroke="#000" stroke-width="1" opacity="0.03"/>
   </pattern>
   <rect y="38" width="850" height="362" fill="url(#scanlines)" rx="0"/>
 
@@ -100,72 +103,61 @@
 
   <!-- LINE 3: Name -->
   <g clip-path="url(#r2)">
-    <text x="38" y="134" class="label">Name</text>
-    <text x="140" y="134" class="accent">→</text>
-    <text x="165" y="134" class="value">Abhirag S V</text>
+    <text x="38" y="132" class="label">Name</text>
+    <text x="140" y="132" class="accent">→</text>
+    <text x="165" y="132" class="value">Abhirag S V</text>
   </g>
-
-  <g clip-path="url(#r2)">
-    <text x="38" y="134" class="label">DOB</text>
-    <text x="140" y="134" class="accent">→</text>
-    <text x="165" y="134" class="value">12-02-2005</text>
-  </g>
-  <g clip-path="url(#r2)">
-    <text x="38" y="134" class="label">Location</text>
-    <text x="140" y="134" class="accent">→</text>
-    <text x="165" y="134" class="value">Trivandrum,Kerala</text>
-  </g>
-
-  <!-- LINE 5: Degree -->
-  <g clip-path="url(#r4)">
-    <text x="38" y="198" class="label">Degree</text>
-    <text x="140" y="198" class="accent">→</text>
-    <text x="165" y="198" class="value">BCA (Bachelor of Computer Applications)</text>
-  </g>
-  <!-- LINE 4: Role -->
-
+  
+  <!-- LINE 4: DOB -->
   <g clip-path="url(#r3)">
-    <text x="38" y="166" class="label">Role</text>
-    <text x="140" y="166" class="accent">→</text>
-    <text x="165" y="166" class="value">Full-Stack Web Developer</text>
-  </g>  
+    <text x="38" y="160" class="label">DOB</text>
+    <text x="140" y="160" class="accent">→</text>
+    <text x="165" y="160" class="value">12-02-2005</text>
+  </g>
+  
+  <!-- LINE 5: Location -->
+  <g clip-path="url(#r4)">
+    <text x="38" y="188" class="label">Location</text>
+    <text x="140" y="188" class="accent">→</text>
+    <text x="165" y="188" class="value">Trivandrum, Kerala</text>
+  </g>
 
-  <!-- LINE 6: Focus -->
+  <!-- LINE 6: Degree -->
   <g clip-path="url(#r5)">
-    <text x="38" y="230" class="label">Focus</text>
-    <text x="140" y="230" class="accent">→</text>
-    <text x="165" y="230" class="value">Python Django · Next.js · MERN Stack · UI/UX · AI </text>
+    <text x="38" y="216" class="label">Degree</text>
+    <text x="140" y="216" class="accent">→</text>
+    <text x="165" y="216" class="value">BCA (Bachelor of Computer Applications)</text>
   </g>
 
-  <!-- LINE 7: Interests -->
+  <!-- LINE 7: Focus -->
   <g clip-path="url(#r6)">
-    <text x="38" y="262" class="label">Interests</text>
-    <text x="140" y="262" class="accent">→</text>
-    <text x="165" y="262" class="value">Building immersive systems, Clean code, UI/UX</text>
+    <text x="38" y="244" class="label">Focus</text>
+    <text x="140" y="244" class="accent">→</text>
+    <text x="165" y="244" class="value">Python Django · Next.js · MERN Stack · UI/UX · AI</text>
   </g>
 
-  <!-- LINE 7: Interests -->
-  <g clip-path="url(#r6)">
-    <text x="38" y="262" class="label">Hobbies</text>
-    <text x="140" y="262" class="accent">→</text>
-    <text x="165" y="262" class="value">Working out,football,basket ball,volley ball,running and ya coding...</text>
-  </g>
-
-  <!-- LINE 8: Status -->
+  <!-- LINE 8: Interests -->
   <g clip-path="url(#r7)">
-    <text x="38" y="294" class="label">Status</text>
-    <text x="140" y="294" class="accent">→</text>
-    <text x="165" y="294" class="value">Learning &amp; building — step by step </text>
+    <text x="38" y="272" class="label">I like</text>
+    <text x="140" y="272" class="accent">→</text>
+    <text x="165" y="272" class="value">Working out, football, basketball, volleyball, running and ya coding...</text>
   </g>
 
-  <!-- LINE 9: separator -->
+  <!-- LINE 9: Status -->
   <g clip-path="url(#r8)">
-    <text x="30" y="322" class="sep">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+    <text x="38" y="300" class="label">Status</text>
+    <text x="140" y="300" class="accent">→</text>
+    <text x="165" y="300" class="value">Learning &amp; building — step by step</text>
+  </g>
+
+  <!-- LINE 10: separator -->
+  <g clip-path="url(#r9)">
+    <text x="30" y="328" class="sep">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
   </g>
 
   <!-- Final prompt with blinking cursor (appears after all typing) -->
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="7.2s" dur="0.1s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="1" begin="8.1s" dur="0.1s" fill="freeze"/>
     <text x="30" y="358" class="prompt">$</text>
     <rect x="48" y="344" width="9" height="17" fill="#DC143C" rx="1" class="cursor"/>
   </g>
