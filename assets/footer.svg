@@ -45,9 +45,7 @@
   <rect width="900" height="140" fill="#0D1117" rx="8"/>
   <rect x="1" y="1" width="898" height="138" fill="none" stroke="url(#border-g)" stroke-width="1" rx="8"/>
 
-  <!-- Top line accent -->
-  <line x1="200" y1="1" x2="700" y2="1" stroke="#DC143C" stroke-width="1" stroke-opacity="0.3"/>
-
+ 
   <!-- Waveform equalizer bars -->
   <!-- Bar 0 -->
   <rect x="375" y="46" width="4" rx="2" height="4" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.7">
@@ -126,11 +124,11 @@
   </rect>
 
   <!-- Quote -->
-  <text x="450" y="82" text-anchor="middle" class="quote">"The best error message is the one that never shows up." — Thomas Fuchs</text>
+  <text x="450" y="82" text-anchor="middle" class="quote">"If you feel like you're lagging behind, accept it. Move on. Nah, just kidding—refresh,go for a mountain walk and retry." — Abhirag S V</text>
 
   <!-- CTA -->
   <text x="450" y="108" text-anchor="middle" class="cta">OPEN TO COLLABORATIONS · FREELANCE · INTERESTING IDEAS</text>
 
   <!-- Made with line -->
-  <text x="450" y="128" text-anchor="middle" class="made-with">crafted with <tspan class="heart">♥</tspan> by Abhirag S V</text>
+  <text x="450" y="128" text-anchor="middle" class="made-with">crafted with <tspan class="heart">♥</tspan> by me,heheh!</text>
 </svg>
