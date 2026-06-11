@@ -1,149 +1,219 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║   ABHIRAG S V — GitHub Profile README                       ║
+  ║   Theme: Crimson Terminal // v2.0                            ║
+  ║                                                              ║
+  ║   SETUP:                                                     ║
+  ║   1. Create repo "Abhirag05/Abhirag05"                      ║
+  ║   2. Copy all files (assets/, .github/, README.md)          ║
+  ║   3. Push & trigger the snake workflow from Actions tab     ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-```
- █████╗ ██████╗ ██╗  ██╗██╗██████╗  █████╗  ██████╗
-██╔══██╗██╔══██╗██║  ██║██║██╔══██╗██╔══██╗██╔════╝
-███████║██████╔╝███████║██║██████╔╝███████║██║  ███╗
-██╔══██║██╔══██╗██╔══██║██║██╔══██╗██╔══██║██║   ██║
-██║  ██║██████╔╝██║  ██║██║██║  ██║██║  ██║╚██████╔╝
-╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
-```
+  <!-- ANIMATED HEADER BANNER -->
+  <img src="./assets/header.svg" width="900" alt="Abhirag S V — Full-Stack Developer"/>
 
-### `BCA Student` · `Full-Stack Developer` · `Builder`
+  <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MERN+Stack+%7C+Next.js+%7C+PHP%2FMySQL;Turning+ideas+into+working+products;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <!-- TYPING ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=DC143C&center=true&vCenter=true&multiline=false&width=550&height=30&lines=MERN+Stack+%7C+Next.js+%7C+PHP%2FMySQL;Turning+ideas+into+production-ready+code;Code.+Build.+Deploy.+Repeat.;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhirag-s-v)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-%23F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22333333)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhiragsv2005@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Abhirag05&style=flat-square&color=00D9FF&label=PROFILE+VIEWS)
+  <br/><br/>
+
+  <!-- SOCIAL BADGES -->
+  <a href="https://linkedin.com/in/abhirag-s-v">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC143C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/22333333">
+    <img src="https://img.shields.io/badge/Stack_Overflow-Profile-DC143C?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abhiragsv2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hi-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Abhirag05&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
-
----
-
-## `$ whoami`
-
-```yaml
-name:       Abhirag S V
-role:       Full-Stack Web Developer
-degree:     BCA (Bachelor of Computer Applications)
-focus:      MERN Stack · Next.js · PHP/MySQL
-interests:  [Building products, Clean code, UI/UX, Automation]
-currently:  Learning & building — one project at a time
-```
-
----
-
-## `$ ls ./skills`
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
-```
-JavaScript   ████████████  ★★★★★
-TypeScript   █████████░░░  ★★★★☆
-PHP          ████████░░░░  ★★★★☆
-Python       ███████░░░░░  ★★★☆☆
-Java         ██████░░░░░░  ★★★☆☆
-C / C++      ██████░░░░░░  ★★★☆☆
-```
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend**
-```
-React        ████████████  ★★★★★
-Next.js      ████████████  ★★★★★
-TailwindCSS  ████████████  ★★★★★
-HTML/CSS     ████████████  ★★★★★
-Bootstrap    ████████░░░░  ★★★★☆
-Flutter      ██████░░░░░░  ★★★☆☆
-```
-
-</td>
-<td valign="top" width="33%">
-
-**Backend & DB**
-```
-Node.js      ████████████  ★★★★★
-Express.js   ████████████  ★★★★★
-MongoDB      ██████████░░  ★★★★☆
-MySQL        ██████████░░  ★★★★☆
-Apache       ███████░░░░░  ★★★☆☆
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ cat ./toolbelt.txt`
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000?style=flat-square&logo=vercel)
-![Render](https://img.shields.io/badge/Render-%2346E3B7?style=flat-square&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=flat-square&logo=wordpress)
-![UiPath](https://img.shields.io/badge/UiPath-Automation-%23FF6C37?style=flat-square&logo=uipath&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white)
-
-</div>
-
----
-
-## `$ gh stats --user Abhirag05`
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abhirag05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirag05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abhirag05&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-</div>
-
----
-
-## `$ cat ./contributions.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhirag05&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
-
-</div>
-
----
-
-## `$ trophy --display`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Abhirag05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-*"The best error message is the one that never shows up."* — Thomas Fuchs
 
 <br/>
 
-**Open to collaborations, freelance projects & interesting ideas.**
-**Drop a mail or connect on LinkedIn — I reply fast.**
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="./assets/divider.svg" width="100%"/>
 
+<br/>
+
+<!-- ═══════════════════ ABOUT ME TERMINAL ═══════════════════ -->
+
+<div align="center">
+  <img src="./assets/terminal.svg" width="850" alt="About Me — Animated Terminal"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════ TECH ARSENAL ═══════════════════ -->
+
+<h2 align="center">
+  <samp>⟨ ⚡ TECH ARSENAL ⟩</samp>
+</h2>
+
+<div align="center">
+
+<h4><samp>◆ LANGUAGES</samp></h4>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=DC143C)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=DC143C)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=DC143C)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=DC143C)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=DC143C)
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=DC143C)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=DC143C)
+
+<h4><samp>◆ FRONTEND</samp></h4>
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=DC143C)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=DC143C)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=DC143C)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=DC143C)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=DC143C)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=DC143C)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=DC143C)
+
+<h4><samp>◆ BACKEND &amp; DATABASE</samp></h4>
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=DC143C)
+![Express](https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=DC143C)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=DC143C)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=DC143C)
+![Apache](https://img.shields.io/badge/Apache-0D1117?style=flat-square&logo=apache&logoColor=DC143C)
+
+<h4><samp>◆ TOOLS &amp; PLATFORMS</samp></h4>
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=DC143C)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=DC143C)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=DC143C)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=DC143C)
+![Render](https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=DC143C)
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=flat-square&logo=netlify&logoColor=DC143C)
+![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=DC143C)
+![UiPath](https://img.shields.io/badge/UiPath-0D1117?style=flat-square&logo=uipath&logoColor=DC143C)
+![Canva](https://img.shields.io/badge/Canva-0D1117?style=flat-square&logo=canva&logoColor=DC143C)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
+
+<h2 align="center">
+  <samp>⟨ 📊 GITHUB ANALYTICS ⟩</samp>
+</h2>
+
+<div align="center">
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abhirag05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&ring_color=DC143C&rank_icon=github" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirag05&layout=compact&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Abhirag05&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhirag05&hide_border=true&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&area_color=DC143C" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════ TROPHY SHELF ═══════════════════ -->
+
+<h2 align="center">
+  <samp>⟨ 🏆 TROPHY SHELF ⟩</samp>
+</h2>
+
+<div align="center">
+
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=Abhirag05&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+
+<h2 align="center">
+  <samp>⟨ 🐍 CONTRIBUTION SNAKE ⟩</samp>
+</h2>
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhirag05/Abhirag05/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhirag05/Abhirag05/output/snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Abhirag05/Abhirag05/output/snake-dark.svg" />
+  </picture>
+
+  <br/>
+  <sub><samp>⚠️ Set up the GitHub Action in <code>.github/workflows/snake.yml</code> and trigger it from the Actions tab to generate this animation.</samp></sub>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
+<div align="center">
+  <img src="./assets/footer.svg" width="900" alt="Footer"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <samp>
+    <b>Drop a mail or connect on LinkedIn — I reply fast.</b>
+    <br/><br/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=60&section=footer" width="100%"/>
+  </samp>
 </div>

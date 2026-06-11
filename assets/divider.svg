@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="30" viewBox="0 0 900 30">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="line-fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DC143C" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#DC143C" stop-opacity="0.2"/>
+      <stop offset="40%" stop-color="#DC143C" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#DC143C" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#DC143C" stop-opacity="0.5"/>
+      <stop offset="85%" stop-color="#DC143C" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#DC143C" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Static heartbeat line -->
+  <path d="M 0,15 L 330,15 L 355,15 L 370,15 L 385,4 L 400,26 L 415,4 L 430,26 L 448,15 L 465,15 L 540,15 L 900,15"
+        stroke="url(#line-fade)" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Faint secondary pulse -->
+  <path d="M 0,15 L 330,15 L 355,15 L 370,15 L 385,4 L 400,26 L 415,4 L 430,26 L 448,15 L 465,15 L 540,15 L 900,15"
+        stroke="#DC143C" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.08" filter="url(#glow)"/>
+
+  <!-- Tracing glow dot -->
+  <circle r="4" fill="#DC143C" filter="url(#glow)" opacity="0.9">
+    <animateMotion dur="3s" repeatCount="indefinite"
+      path="M 0,15 L 330,15 L 355,15 L 370,15 L 385,4 L 400,26 L 415,4 L 430,26 L 448,15 L 465,15 L 540,15 L 900,15"/>
+  </circle>
+
+  <!-- Small trailing dot -->
+  <circle r="2" fill="#DC143C" opacity="0.4">
+    <animateMotion dur="3s" repeatCount="indefinite" begin="-0.15s"
+      path="M 0,15 L 330,15 L 355,15 L 370,15 L 385,4 L 400,26 L 415,4 L 430,26 L 448,15 L 465,15 L 540,15 L 900,15"/>
+  </circle>
+</svg>

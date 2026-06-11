@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="border-g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DC143C" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#DC143C" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#DC143C" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bar-grad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#8B0000"/>
+      <stop offset="100%" stop-color="#DC143C"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes fade-pulse {
+      0%, 100% { opacity: 0.5; }
+      50% { opacity: 1; }
+    }
+    .quote {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 11px;
+      fill: #555;
+      font-style: italic;
+    }
+    .cta {
+      font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      fill: #DC143C;
+      letter-spacing: 2px;
+      font-weight: 600;
+      animation: fade-pulse 3s ease-in-out infinite;
+    }
+    .made-with {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 10px;
+      fill: #333;
+    }
+    .heart { fill: #DC143C; font-size: 10px; }
+  </style>
+
+  <!-- Background -->
+  <rect width="900" height="140" fill="#0D1117" rx="8"/>
+  <rect x="1" y="1" width="898" height="138" fill="none" stroke="url(#border-g)" stroke-width="1" rx="8"/>
+
+  <!-- Top line accent -->
+  <line x1="200" y1="1" x2="700" y2="1" stroke="#DC143C" stroke-width="1" stroke-opacity="0.3"/>
+
+  <!-- Waveform equalizer bars -->
+  <!-- Bar 0 -->
+  <rect x="375" y="46" width="4" rx="2" height="4" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.7">
+    <animate attributeName="height" values="4;10;4" dur="1.5s" begin="0.0s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="46;40;46" dur="1.5s" begin="0.0s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 1 -->
+  <rect x="385" y="45" width="4" rx="2" height="5" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.7">
+    <animate attributeName="height" values="5;14;5" dur="1.5s" begin="0.12s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="45;36;45" dur="1.5s" begin="0.12s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 2 -->
+  <rect x="395" y="44" width="4" rx="2" height="6" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.75">
+    <animate attributeName="height" values="6;18;6" dur="1.5s" begin="0.24s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="44;32;44" dur="1.5s" begin="0.24s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 3 -->
+  <rect x="405" y="43" width="4" rx="2" height="7" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.75">
+    <animate attributeName="height" values="7;22;7" dur="1.5s" begin="0.36s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="43;28;43" dur="1.5s" begin="0.36s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 4 -->
+  <rect x="415" y="43" width="4" rx="2" height="7" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.8">
+    <animate attributeName="height" values="7;25;7" dur="1.5s" begin="0.48s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="43;25;43" dur="1.5s" begin="0.48s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 5 -->
+  <rect x="425" y="42" width="4" rx="2" height="8" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.8">
+    <animate attributeName="height" values="8;28;8" dur="1.5s" begin="0.60s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="42;22;42" dur="1.5s" begin="0.60s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 6 -->
+  <rect x="435" y="42" width="4" rx="2" height="8" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.85">
+    <animate attributeName="height" values="8;30;8" dur="1.5s" begin="0.72s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="42;20;42" dur="1.5s" begin="0.72s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 7 (center) -->
+  <rect x="445" y="42" width="4" rx="2" height="8" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.9">
+    <animate attributeName="height" values="8;32;8" dur="1.5s" begin="0.84s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="42;18;42" dur="1.5s" begin="0.84s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 8 -->
+  <rect x="455" y="42" width="4" rx="2" height="8" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.85">
+    <animate attributeName="height" values="8;30;8" dur="1.5s" begin="0.96s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="42;20;42" dur="1.5s" begin="0.96s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 9 -->
+  <rect x="465" y="42" width="4" rx="2" height="8" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.8">
+    <animate attributeName="height" values="8;28;8" dur="1.5s" begin="1.08s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="42;22;42" dur="1.5s" begin="1.08s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 10 -->
+  <rect x="475" y="43" width="4" rx="2" height="7" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.8">
+    <animate attributeName="height" values="7;25;7" dur="1.5s" begin="1.20s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="43;25;43" dur="1.5s" begin="1.20s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 11 -->
+  <rect x="485" y="43" width="4" rx="2" height="7" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.75">
+    <animate attributeName="height" values="7;22;7" dur="1.5s" begin="1.32s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="43;28;43" dur="1.5s" begin="1.32s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 12 -->
+  <rect x="495" y="44" width="4" rx="2" height="6" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.75">
+    <animate attributeName="height" values="6;18;6" dur="1.5s" begin="1.44s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="44;32;44" dur="1.5s" begin="1.44s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 13 -->
+  <rect x="505" y="45" width="4" rx="2" height="5" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.7">
+    <animate attributeName="height" values="5;14;5" dur="1.5s" begin="1.56s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="45;36;45" dur="1.5s" begin="1.56s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bar 14 -->
+  <rect x="515" y="46" width="4" rx="2" height="4" fill="url(#bar-grad)" filter="url(#glow)" opacity="0.7">
+    <animate attributeName="height" values="4;10;4" dur="1.5s" begin="1.68s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="46;40;46" dur="1.5s" begin="1.68s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Quote -->
+  <text x="450" y="82" text-anchor="middle" class="quote">"The best error message is the one that never shows up." — Thomas Fuchs</text>
+
+  <!-- CTA -->
+  <text x="450" y="108" text-anchor="middle" class="cta">OPEN TO COLLABORATIONS · FREELANCE · INTERESTING IDEAS</text>
+
+  <!-- Made with line -->
+  <text x="450" y="128" text-anchor="middle" class="made-with">crafted with <tspan class="heart">♥</tspan> by Abhirag S V</text>
+</svg>
