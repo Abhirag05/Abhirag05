@@ -124,12 +124,6 @@
   </g>
   <!-- LINE 4: Role -->
 
-  <g clip-path="url(#r3)">
-    <text x="38" y="166" class="label">Role</text>
-    <text x="140" y="166" class="accent">→</text>
-    <text x="165" y="166" class="value">Full-Stack Web Developer</text>
-  </g>  
-
   <!-- LINE 6: Focus -->
   <g clip-path="url(#r5)">
     <text x="38" y="230" class="label">Focus</text>
@@ -139,14 +133,7 @@
 
   <!-- LINE 7: Interests -->
   <g clip-path="url(#r6)">
-    <text x="38" y="262" class="label">Interests</text>
-    <text x="140" y="262" class="accent">→</text>
-    <text x="165" y="262" class="value">Building immersive systems, Clean code, UI/UX</text>
-  </g>
-
-  <!-- LINE 7: Interests -->
-  <g clip-path="url(#r6)">
-    <text x="38" y="262" class="label">Hobbies</text>
+    <text x="38" y="262" class="label">Outside Coding</text>
     <text x="140" y="262" class="accent">→</text>
     <text x="165" y="262" class="value">Working out,football,basket ball,volley ball,running and ya coding...</text>
   </g>
