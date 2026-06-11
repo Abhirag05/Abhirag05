@@ -105,11 +105,15 @@
     <text x="165" y="134" class="value">Abhirag S V</text>
   </g>
 
-  <!-- LINE 4: Role -->
-  <g clip-path="url(#r3)">
-    <text x="38" y="166" class="label">Role</text>
-    <text x="140" y="166" class="accent">→</text>
-    <text x="165" y="166" class="value">Full-Stack Web Developer</text>
+  <g clip-path="url(#r2)">
+    <text x="38" y="134" class="label">DOB</text>
+    <text x="140" y="134" class="accent">→</text>
+    <text x="165" y="134" class="value">12-02-2005</text>
+  </g>
+  <g clip-path="url(#r2)">
+    <text x="38" y="134" class="label">Location</text>
+    <text x="140" y="134" class="accent">→</text>
+    <text x="165" y="134" class="value">Trivandrum,Kerala</text>
   </g>
 
   <!-- LINE 5: Degree -->
@@ -118,26 +122,40 @@
     <text x="140" y="198" class="accent">→</text>
     <text x="165" y="198" class="value">BCA (Bachelor of Computer Applications)</text>
   </g>
+  <!-- LINE 4: Role -->
+
+  <g clip-path="url(#r3)">
+    <text x="38" y="166" class="label">Role</text>
+    <text x="140" y="166" class="accent">→</text>
+    <text x="165" y="166" class="value">Full-Stack Web Developer</text>
+  </g>  
 
   <!-- LINE 6: Focus -->
   <g clip-path="url(#r5)">
     <text x="38" y="230" class="label">Focus</text>
     <text x="140" y="230" class="accent">→</text>
-    <text x="165" y="230" class="value">MERN Stack · Next.js · PHP/MySQL</text>
+    <text x="165" y="230" class="value">Python Django · Next.js · MERN Stack · UI/UX · AI </text>
   </g>
 
   <!-- LINE 7: Interests -->
   <g clip-path="url(#r6)">
     <text x="38" y="262" class="label">Interests</text>
     <text x="140" y="262" class="accent">→</text>
-    <text x="165" y="262" class="value">Building products, Clean code, UI/UX</text>
+    <text x="165" y="262" class="value">Building immersive systems, Clean code, UI/UX</text>
+  </g>
+
+  <!-- LINE 7: Interests -->
+  <g clip-path="url(#r6)">
+    <text x="38" y="262" class="label">Hobbies</text>
+    <text x="140" y="262" class="accent">→</text>
+    <text x="165" y="262" class="value">Working out,football,basket ball,volley ball,running and ya coding...</text>
   </g>
 
   <!-- LINE 8: Status -->
   <g clip-path="url(#r7)">
     <text x="38" y="294" class="label">Status</text>
     <text x="140" y="294" class="accent">→</text>
-    <text x="165" y="294" class="value">Learning &amp; building — one project at a time</text>
+    <text x="165" y="294" class="value">Learning &amp; building — step by step </text>
   </g>
 
   <!-- LINE 9: separator -->
