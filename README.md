@@ -74,7 +74,7 @@
 <!-- ═══════════════════ TECH ARSENAL ═══════════════════ -->
 
 <h2 align="center">
-  <samp>⟨ ⚡ TECH ARSENAL ⟩</samp>
+  <samp>⟨TECH ARSENAL ⟩</samp>
 </h2>
 
 <div align="center">
@@ -86,9 +86,7 @@
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=DC143C)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=DC143C)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=DC143C)
-![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=DC143C)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=DC143C)
-
 <h4><samp>◆ FRONTEND</samp></h4>
 
 ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=DC143C)
@@ -97,15 +95,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=DC143C)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=DC143C)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=DC143C)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=DC143C)
 
 <h4><samp>◆ BACKEND &amp; DATABASE</samp></h4>
 
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=DC143C)
 ![Express](https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=DC143C)
+![Django](https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=DC143C)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=DC143C)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=DC143C)
 ![Apache](https://img.shields.io/badge/Apache-0D1117?style=flat-square&logo=apache&logoColor=DC143C)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=DC143C)
+
 
 <h4><samp>◆ TOOLS &amp; PLATFORMS</samp></h4>
 
@@ -131,7 +131,7 @@
 <!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
 <h2 align="center">
-  <samp>⟨ 📊 GITHUB ANALYTICS ⟩</samp>
+  <samp>⟨ GITHUB ANALYTICS ⟩</samp>
 </h2>
 
 <div align="center">
@@ -165,22 +165,6 @@
 
 <br/>
 
-<!-- ═══════════════════ TROPHY SHELF ═══════════════════ -->
-
-<h2 align="center">
-  <samp>⟨ 🏆 TROPHY SHELF ⟩</samp>
-</h2>
-
-<div align="center">
-
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=Abhirag05&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════ DIVIDER ═══════════════════ -->
-<img src="./assets/divider.svg" width="100%"/>
 
 <br/>
 
