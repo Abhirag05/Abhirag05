@@ -21,7 +21,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=DC143C&center=true&vCenter=true&multiline=false&width=550&height=30&lines=MERN+Stack+%7C+Next.js+%7C+PHP%2FMySQL;Make+code+alive;Code.+Build.+Deploy.+Repeat.;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=DC143C&center=true&vCenter=true&multiline=false&width=550&height=30&lines=Python+Django+%7C+MERN+Stack+%7C+Next.js+%7C+PHP%2FMySQL;Make+code+alive;Code.+Build.+Deploy.+Repeat.;Always+learning%2C+always+shipping" alt="Typing SVG" />
   </a>
 
   <br/><br/>
