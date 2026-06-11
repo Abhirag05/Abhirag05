@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="32" viewBox="0 0 160 32">
+  <style>
+    .bg {
+      fill: #0D1117;
+      stroke: #DC143C;
+      stroke-opacity: 0.3;
+      transition: all 0.3s ease;
+    }
+    .logo {
+      fill: #DC143C;
+      transition: all 0.3s ease;
+    }
+    .prompt {
+      font-family: 'JetBrains Mono', 'Fira Code', monospace;
+      font-size: 13px;
+      font-weight: bold;
+      fill: #DC143C;
+    }
+    .text {
+      font-family: 'JetBrains Mono', 'Fira Code', monospace;
+      font-size: 11px;
+      font-weight: bold;
+      fill: #C9D1D9;
+      letter-spacing: 1px;
+      transition: all 0.3s ease;
+    }
+    svg:hover .bg {
+      stroke-opacity: 1;
+      fill: #161B22;
+    }
+    svg:hover .logo {
+      fill: #FF2E5B;
+    }
+    svg:hover .text {
+      fill: #FFFFFF;
+      text-shadow: 0 0 4px rgba(255, 255, 255, 0.4);
+    }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="159" height="31" rx="6" stroke-width="1.5" />
+  <g transform="translate(12, 8) scale(0.67)">
+    <path class="logo" d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+  </g>
+  <text x="36" y="20" class="prompt">&gt;</text>
+  <text x="50" y="20" class="text">LINKEDIN</text>
+</svg>

@@ -27,19 +27,27 @@
   <br/><br/>
 
   <!-- SOCIAL BADGES -->
-  <a href="https://linkedin.com/in/abhirag-s-v">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC143C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://abhirag05.vercel.app/" target="_blank">
+    <img src="./assets/badge_portfolio.svg" width="140" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://stackoverflow.com/users/22333333">
-    <img src="https://img.shields.io/badge/Stack_Overflow-Profile-DC143C?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  <a href="https://linkedin.com/in/abhirag-s-v" target="_blank">
+    <img src="./assets/badge_linkedin.svg" width="140" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/no_ne._.05/" target="_blank">
+    <img src="./assets/badge_instagram.svg" width="140" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/22333333" target="_blank">
+    <img src="./assets/badge_stackoverflow.svg" width="140" alt="Stack Overflow"/>
   </a>
   &nbsp;
   <a href="mailto:abhiragsv2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="./assets/badge_email.svg" width="140" alt="Email"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Abhirag05&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Abhirag05&style=flat-square&color=DC143C&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views"/>
 
 </div>
 
