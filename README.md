@@ -136,9 +136,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhirag05&theme=github_dark" height="170em" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirag05&layout=compact&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&cache_seconds=86400" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhirag05&theme=github_dark" alt="GitHub Stats"/>
 
 </div>
 
